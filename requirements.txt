@@ -1,0 +1,6 @@
+flask
+google-genai
+gunicorn
+pypdf
+python-docx
+markdown
